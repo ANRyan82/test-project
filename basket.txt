@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 basket
 2222
+=======
+basket 
+332
+basket
+223
+new-contacts
+>>>>>>> main
